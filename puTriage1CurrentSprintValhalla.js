@@ -3,7 +3,7 @@
 iimSet("STATEVALUE",      "Committed") 
 iimSet("TRIAGEVALUE",     "1<SP>*") 
 iimSet("ITERATIONVALUE",  "PacomUnison\\Valhalla\\Sprint<SP>28")
-iimSet("RELEASEVALUE",    "5.8.0")
+iimSet("RELEASEVALUE",    "5.8.0<SP>beta1")
 
 
 iimPlay("_fPopTriageSetValues.iim")
